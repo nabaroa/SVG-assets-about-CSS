@@ -14,4 +14,4 @@ You can use the freely.
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_box_shadow.png?raw=true)
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_box_shadow.png?raw=true)
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_blending_backdrop.png?raw=true)
-![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSSmultiColumn.png?raw=true)
+![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_multi_column.png?raw=true)
