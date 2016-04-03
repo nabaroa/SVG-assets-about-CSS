@@ -1,176 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024px" height="756px">
-    <defs>
-    </defs>
-    <line fill="#9D9D9C" stroke="#9D9D9C" stroke-miterlimit="10" x1="435.984" y1="0" x2="435.984" y2="935.954" />
-    <text transform="matrix(1 0 0 1 4 730.2993)" font-family="'Lato-Black'" font-size="72">Timeline</text>
-    <text transform="matrix(1 0 0 1 0 661.7446)" font-family="'Lato-Light'" font-size="72">CSS</text>
-    <circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="200.182" r="9.87" />
-    <rect x="460.366" y="187.083" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 471.9785 205.877)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">DEC 1996</text>
-    <text transform="matrix(1 0 0 1 605.3662 205.877)">
-        <tspan x="0" y="0" font-family="'Lato-Black'" font-size="16">CSS1</tspan>
-        <tspan x="37.136" y="0" font-family="'Lato-Regular'" font-size="16"> is officially recommended by W3C</tspan>
-    </text>
-    <circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="331.182" r="9.87" />
-    <rect x="460.366" y="318.083" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 471.9785 336.877)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">NOV 2000</text>
-    <text transform="matrix(1 0 0 1 605.3662 336.877)">
-        <tspan x="0" y="0" font-family="'Lato-Black'" font-size="16">CSS2</tspan>
-        <tspan x="37.136" y="0" font-family="'Lato-Regular'" font-size="16"> becomes official W3C recommendation</tspan>
-    </text>
-    <circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="475.745" r="9.87" />
-    <rect x="460.366" y="462.645" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 471.9785 481.4395)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">JUN 2011</text>
-    <text transform="matrix(1 0 0 1 605.3662 481.4395)">
-        <tspan x="0" y="0" font-family="'Lato-Black'" font-size="16">CSS2.1</tspan>
-        <tspan x="50.191" y="0" font-family="'Lato-Regular'" font-size="16"> specification recommended by W3C</tspan>
-        <tspan x="311.707" y="0" font-family="'Lato-Regular'" font-size="16"> </tspan>
-    </text>
-    <circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="606.745" r="9.87" />
-    <circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="605.745" r="9.87" />
-    <rect x="460.366" y="591.645" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 471.9785 610.4399)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">SEP 2011</text>
-    <text transform="matrix(1 0 0 1 605.3662 610.4399)">
-        <tspan x="0" y="0" font-family="'Lato-Black'" font-size="16">CSS3</tspan>
-        <tspan x="37.136" y="0" font-family="'Lato-Regular'" font-size="16"> specification recommended by W3C</tspan>
-        <tspan x="295.564" y="0" font-family="'Lato-Regular'" font-size="16"> </tspan>
-    </text>
-    <circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="738.745" r="9.87" />
-    <rect x="460.366" y="726.645" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 471.9785 745.4399)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">MAY 2011</text>
-    <text transform="matrix(1 0 0 1 605.3662 745.4399)">
-        <tspan x="0" y="0" font-family="'Lato-Regular'" font-size="16">Cascading Style Sheets (CSS)</tspan>
-        <tspan x="200.669" y="0" font-family="'Lato-Black'" font-size="16"> Snapshot 2007</tspan>
-    </text>
-    <circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="801.745" r="9.87" />
-    <rect x="460.366" y="788.645" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 471.9785 807.4399)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">MAY 2011</text>
-    <text transform="matrix(1 0 0 1 605.3662 807.4399)">
-        <tspan x="0" y="0" font-family="'Lato-Regular'" font-size="16">Cascading Style Sheets (CSS)</tspan>
-        <tspan x="200.669" y="0" font-family="'Lato-Black'" font-size="16"> Snapshot 2010</tspan>
-    </text>
-    <circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="861.954" r="9.87" />
-    <rect x="460.366" y="848.854" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 471.9785 867.6489)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">OCT 2015</text>
-    <text transform="matrix(1 0 0 1 605.3662 867.6489)">
-        <tspan x="0" y="0" font-family="'Lato-Regular'" font-size="16">Cascading Style Sheets (CSS)</tspan>
-        <tspan x="200.669" y="0" font-family="'Lato-Black'" font-size="16"> Snapshot 2015</tspan>
-    </text>
-    <circle opacity="0.5" fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="252.89" r="9.87" />
-    <rect x="285.739" y="239.791" opacity="0.5" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 325.9277 258.5845)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">APR 2008</text>
-    <g>
-        <g>
-            <path fill="#9D9D9C" d="M530.857,225.042c-4.938,13.797-17.623,22.105-31.956,23.668c-2.007,0.219-22.029,1.054-20.978-1.263
-			c-0.245,0.539-3.508,1.364-4.066,2.595c-1.102,2.43,8.546,2.113,9.613,2.114c6.731,0,13.401-0.48,19.865-2.414
-			c13.593-4.067,26.7-13.637,31.588-27.294C534.754,222.923,531.295,223.82,530.857,225.042L530.857,225.042z" />
-        </g>
-    </g>
-    <g>
-        <g>
-            <path fill="#9D9D9C" d="M481.008,244.611c-4.463,1.329-8.206,3.955-12.024,6.532c-0.61,0.412-0.785,1.221-0.097,1.646
-			c6.28,3.875,13.547,4.065,20.433,6.193c1.581,0.489,5.865-1.631,3.143-2.473c-6.541-2.021-13.609-2.131-19.567-5.807
-			c-0.032,0.549-0.065,1.097-0.097,1.646c3.177-2.144,6.261-4.362,9.976-5.468C486.002,245.918,483.297,243.929,481.008,244.611
-			L481.008,244.611z" />
-        </g>
-    </g>
-    <text transform="matrix(1 0 0 1 524.9893 251.7451)" fill="#B2B2B2" font-family="'Lato-Regular'" font-size="14">revised</text>
-    <circle opacity="0.5" fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="383.89" r="9.87" />
-    <rect x="285.739" y="370.791" opacity="0.5" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 325.9277 389.5845)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">NOV 2011</text>
-    <g>
-        <g>
-            <path fill="#9D9D9C" d="M530.857,358.042c-4.938,13.797-17.623,22.106-31.956,23.668c-2.007,0.219-22.029,1.054-20.978-1.264
-			c-0.245,0.54-3.508,1.364-4.066,2.596c-1.102,2.43,8.546,2.113,9.613,2.113c6.731,0,13.401-0.479,19.865-2.414
-			c13.593-4.067,26.7-13.637,31.588-27.294C534.754,355.923,531.295,356.82,530.857,358.042L530.857,358.042z" />
-        </g>
-    </g>
-    <g>
-        <g>
-            <path fill="#9D9D9C" d="M481.008,377.61c-4.463,1.329-8.206,3.955-12.024,6.532c-0.61,0.412-0.785,1.222-0.097,1.646
-			c6.28,3.875,13.547,4.065,20.433,6.193c1.581,0.488,5.865-1.631,3.143-2.473c-6.541-2.021-13.609-2.131-19.567-5.807
-			c-0.032,0.548-0.065,1.097-0.097,1.646c3.177-2.145,6.261-4.362,9.976-5.468C486.002,378.918,483.297,376.93,481.008,377.61
-			L481.008,377.61z" />
-        </g>
-    </g>
-    <text transform="matrix(1 0 0 1 524.9893 384.7451)" fill="#B2B2B2" font-family="'Lato-Regular'" font-size="14">revised</text>
-    <circle opacity="0.5" fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="528.768" r="9.87" />
-    <rect x="285.739" y="515.668" opacity="0.5" fill="#EB5B8C" width="129.246" height="26.199" />
-    <text transform="matrix(1 0 0 1 325.9277 534.4624)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">DEC 2014</text>
-    <g>
-        <g>
-            <path fill="#9D9D9C" d="M530.857,502.92c-4.938,13.797-17.623,22.105-31.956,23.668c-2.007,0.219-22.029,1.055-20.978-1.264
-			c-0.245,0.541-3.508,1.365-4.066,2.596c-1.102,2.43,8.546,2.113,9.613,2.113c6.731,0,13.401-0.479,19.865-2.414
-			c13.593-4.066,26.7-13.637,31.588-27.295C534.754,500.801,531.295,501.698,530.857,502.92L530.857,502.92z" />
-        </g>
-    </g>
-    <g>
-        <g>
-            <path fill="#9D9D9C" d="M481.008,522.489c-4.463,1.328-8.206,3.955-12.024,6.531c-0.61,0.412-0.785,1.223-0.097,1.646
-			c6.28,3.875,13.547,4.064,20.433,6.193c1.581,0.488,5.865-1.631,3.143-2.473c-6.541-2.021-13.609-2.131-19.567-5.807
-			c-0.032,0.547-0.065,1.096-0.097,1.645c3.177-2.145,6.261-4.361,9.976-5.467C486.002,523.795,483.297,521.807,481.008,522.489
-			L481.008,522.489z" />
-        </g>
-    </g>
-    <text transform="matrix(1 0 0 1 524.9893 529.623)" fill="#B2B2B2" font-family="'Lato-Regular'" font-size="14">edited in place to point new work</text>
-    <g>
-        <g>
-            <path fill="#C6C6C6" d="M629.703,461.149c-9.521-0.963-19.671-2.287-29.073,0.209c-7.651,2.029-17.845,7.748-18.586,16.561
-			c-0.704,8.361,9.838,13.729,16.227,16.043c6.518,2.359,13.385,2.77,20.231,2.254c12.864-0.971,28.268-3.615,38.33-12.344
-			c4.301-3.732,6.415-8.713,5.258-14.359c-1.421-6.93-9.698-11.873-16.387-12.363c-2.116-0.154-4.9,2.953-1.625,3.191
-			c6.164,0.453,12.201,5.58,13.417,11.512c1.013,4.939-2.007,9.094-5.746,11.906c-8.517,6.408-20.886,8.252-31.213,9.215
-			c-11.19,1.045-27.57-1.051-32.97-12.457c-4.271-9.025,9.272-15.535,16.043-16.744c8.006-1.43,16.456-0.24,24.469,0.568
-			C630.202,464.555,632.967,461.479,629.703,461.149L629.703,461.149z" />
-        </g>
-    </g>
-    <g>
-        <g>
-            <path fill="#C6C6C6" d="M670.19,458.245c17.281-3.438,34.878-5.82,52-10c3.086-0.754-1.466-1.275-2.6-0.998
-			c-17.124,4.18-34.716,6.562-52,10C664.486,457.864,669.064,458.467,670.19,458.245L670.19,458.245z" />
-        </g>
-    </g>
-    <text transform="matrix(1 0 0 1 732.8906 447.7451)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">Level 2 Revision 1</text>
-    <text transform="matrix(1 0 0 1 16 756.9536)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">Source: http://www.w3.org/TR/#tr_CSS</text>
-    <text transform="matrix(1 0 0 1 581.4561 644.4556)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">Selectors Level 3, first module becoming recommendation </text>
-    <text transform="matrix(1 0 0 1 460.3662 694.7446)">
-        <tspan x="0" y="0" fill="#1D1D1B" font-family="'Lato-Regular'" font-size="14">There is not</tspan>
-        <tspan x="72.211" y="0" fill="#1D1D1B" font-family="'Lato-Black'" font-size="14"> CSS4</tspan>
-        <tspan x="107.406" y="0" fill="#1D1D1B" font-family="'Lato-Regular'" font-size="14">. Each module works independently and has its own level </tspan>
-    </text>
-    <text transform="matrix(1 0 0 1 694.8906 572.6685)">
-        <tspan x="0" y="0" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">builds on CSS Level 2 module by module, </tspan>
-        <tspan x="0" y="16.799" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">using the CSS2.1 specification as its core</tspan>
-    </text>
-    <g>
-        <g>
-            <path fill="#C6C6C6" d="M622.105,589.229c-11.522-5.604-27.318,1.721-25.561,16.059c1.476,12.035,13.575,21.461,25.455,21.203
-			c10.202-0.221,19.758-7.121,25.132-15.467c4.616-7.168,4.446-15.914-4.026-19.795c-3.041-1.393-2.708,1.988-0.43,3.033
-			c5.99,2.744,2.42,10.691-0.14,14.664c-3.979,6.182-10.499,11.014-17.532,13.088c-9.6,2.83-18.934-2.061-23.028-11.061
-			c-5.525-12.145,8.294-24.238,19.7-18.691C624.688,593.727,624.346,590.317,622.105,589.229L622.105,589.229z" />
-        </g>
-    </g>
-    <g>
-        <g>
-            <path fill="#C6C6C6" d="M653.245,593.09c5.897-3.234,12.651-5.137,19.03-7.158c3.69-1.168,7.407-2.26,11.146-3.264
-			c1.273-0.342,2.554-0.656,3.839-0.951c1.665-0.381,2.673,0.164,0.944-0.684c1.869,0.916,6.077-1.25,3.371-2.576
-			c-1.816-0.893-3.987-0.25-5.854,0.156c-3.959,0.859-7.857,2.043-11.733,3.209c-7.814,2.352-16.258,4.631-23.452,8.576
-			C647.659,591.977,651.181,594.223,653.245,593.09L653.245,593.09z" />
-        </g>
-    </g>
-    <g>
-        <g>
-            <path fill="#9D9D9C" d="M505.816,632.217c10.732,0.237,19.988,6.326,29.975,9.509c9.119,2.905,18.264,3.635,27.483,0.708
-			c1.259-0.4-3.023-1.92-4.076-1.586c-11.612,3.688-21.436,0.278-32.157-4.244c-7.53-3.178-15.188-5.898-23.443-6.08
-			C500.418,630.454,504.634,632.192,505.816,632.217L505.816,632.217z" />
-        </g>
-    </g>
-    <g>
-        <g>
-            <path fill="#9D9D9C" d="M553.798,633.999c2.145,0.063,4.16,1.652,5.902,2.756c2.691,1.705,5.372,3.35,8.402,4.387
-			c0.141-0.267,0.282-0.532,0.423-0.798c-3.014,2.124-6.034,4.301-9.464,5.71c-3.201,1.315-0.077,1.511,1.645,0.803
-			c4.149-1.705,7.815-4.114,11.47-6.69c0.091-0.064,0.927-0.626,0.423-0.798c-3.028-1.036-5.713-2.678-8.401-4.386
-			c-1.941-1.233-4.086-2.832-6.478-2.903c-1.144-0.034-2.31,0.299-3.333,0.8C554.143,632.998,552.678,633.965,553.798,633.999
-			L553.798,633.999z" />
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="1024px" height="756px" viewBox="-25 160 1024 756"
+	 overflow="visible" enable-background="new -25 160 1024 756" xml:space="preserve">
+<defs>
+</defs>
+<line fill="none" stroke="#9D9D9C" stroke-miterlimit="10" x1="435.984" y1="0" x2="435.984" y2="935.954"/>
+<text transform="matrix(1 0 0 1 4 730.2988)" font-family="'Lato-Black'" font-size="72">Timeline</text>
+<text transform="matrix(1 0 0 1 0 661.7441)" font-family="'Lato-Light'" font-size="72">CSS</text>
+<circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="200.182" r="9.87"/>
+<rect x="460.366" y="187.083" fill="#EB5B8C" width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 471.9785 205.877)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">DEC 1996</text>
+<text transform="matrix(1 0 0 1 605.3662 205.877)" font-family="'Lato-Black'" font-size="16">CSS1</text>
+<text transform="matrix(1 0 0 1 642.502 205.877)" font-family="'Lato-Regular'" font-size="16"> is officially recommended by W3C</text>
+<circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="331.182" r="9.87"/>
+<rect x="460.366" y="318.083" fill="#EB5B8C" width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 471.9785 336.877)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">NOV 2000</text>
+<text transform="matrix(1 0 0 1 605.3662 336.877)" font-family="'Lato-Black'" font-size="16">CSS2</text>
+<text transform="matrix(1 0 0 1 642.502 336.877)" font-family="'Lato-Regular'" font-size="16"> becomes official W3C  recommendation</text>
+<circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="475.745" r="9.87"/>
+<rect x="460.366" y="462.645" fill="#EB5B8C" width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 471.9785 481.4395)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">JUN 2011</text>
+<text transform="matrix(1 0 0 1 605.3662 481.4395)" font-family="'Lato-Black'" font-size="16">CSS2.1</text>
+<text transform="matrix(1 0 0 1 655.5566 481.4395)" font-family="'Lato-Regular'" font-size="16">   specification recommended by W3C</text>
+<text transform="matrix(1 0 0 1 917.0732 481.4395)" font-family="'Lato-Regular'" font-size="16"> </text>
+<circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="606.745" r="9.87"/>
+<circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="605.745" r="9.87"/>
+<rect x="460.366" y="591.645" fill="#EB5B8C" width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 471.9785 610.4395)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">SEP 2011</text>
+<text transform="matrix(1 0 0 1 605.3662 610.4395)" font-family="'Lato-Black'" font-size="16">CSS3</text>
+<text transform="matrix(1 0 0 1 642.502 610.4395)" font-family="'Lato-Regular'" font-size="16">  specification recommended by W3C</text>
+<text transform="matrix(1 0 0 1 900.9297 610.4395)" font-family="'Lato-Regular'" font-size="16"> </text>
+<circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="738.745" r="9.87"/>
+<rect x="460.366" y="726.645" fill="#EB5B8C" width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 471.9785 745.4395)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">MAY 2011</text>
+<text transform="matrix(1 0 0 1 605.3662 745.4395)" font-family="'Lato-Regular'" font-size="16">Cascading Style Sheets (CSS)</text>
+<text transform="matrix(1 0 0 1 806.0352 745.4395)" font-family="'Lato-Black'" font-size="16"> Snapshot 2007</text>
+<circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="801.745" r="9.87"/>
+<rect x="460.366" y="788.645" fill="#EB5B8C" width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 471.9785 807.4395)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">MAY 2011</text>
+<text transform="matrix(1 0 0 1 605.3662 807.4395)" font-family="'Lato-Regular'" font-size="16">Cascading Style Sheets (CSS)</text>
+<text transform="matrix(1 0 0 1 806.0352 807.4395)" font-family="'Lato-Black'" font-size="16"> Snapshot 2010</text>
+<circle fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" cx="435.984" cy="861.954" r="9.87"/>
+<rect x="460.366" y="848.854" fill="#EB5B8C" width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 471.9785 867.6484)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">OCT 2015</text>
+<text transform="matrix(1 0 0 1 605.3662 867.6484)" font-family="'Lato-Regular'" font-size="16">Cascading Style Sheets (CSS)</text>
+<text transform="matrix(1 0 0 1 806.0352 867.6484)" font-family="'Lato-Black'" font-size="16"> Snapshot 2015</text>
+<circle opacity="0.5" fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" enable-background="new    " cx="435.984" cy="252.89" r="9.87"/>
+<rect x="285.739" y="239.791" opacity="0.5" fill="#EB5B8C" enable-background="new    " width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 325.9277 258.585)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">APR 2008</text>
+<path fill="#9D9D9C" d="M530.857,225.042c-4.938,13.797-17.623,22.105-31.956,23.668c-2.007,0.219-22.029,1.054-20.979-1.263
+	c-0.245,0.539-3.508,1.364-4.065,2.595c-1.103,2.43,8.546,2.113,9.612,2.114c6.731,0,13.401-0.48,19.865-2.414
+	c13.593-4.067,26.7-13.637,31.588-27.294C534.754,222.923,531.295,223.82,530.857,225.042L530.857,225.042z"/>
+<path fill="#9D9D9C" d="M481.008,244.611c-4.463,1.329-8.206,3.955-12.023,6.532c-0.61,0.412-0.785,1.221-0.098,1.646
+	c6.28,3.875,13.547,4.065,20.434,6.193c1.581,0.489,5.865-1.631,3.143-2.473c-6.541-2.021-13.609-2.131-19.566-5.807
+	c-0.032,0.549-0.065,1.097-0.098,1.646c3.178-2.144,6.262-4.362,9.977-5.468C486.002,245.918,483.297,243.929,481.008,244.611
+	L481.008,244.611z"/>
+<text transform="matrix(1 0 0 1 524.9893 251.7451)" fill="#B2B2B2" font-family="'Lato-Regular'" font-size="14">revised</text>
+<circle opacity="0.5" fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" enable-background="new    " cx="435.984" cy="383.89" r="9.87"/>
+<rect x="285.739" y="370.791" opacity="0.5" fill="#EB5B8C" enable-background="new    " width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 325.9277 389.585)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">NOV 2011</text>
+<path fill="#9D9D9C" d="M530.857,358.042c-4.938,13.797-17.623,22.106-31.956,23.668c-2.007,0.219-22.029,1.054-20.979-1.264
+	c-0.245,0.54-3.508,1.363-4.065,2.596c-1.103,2.43,8.546,2.113,9.612,2.113c6.731,0,13.401-0.479,19.865-2.414
+	c13.593-4.067,26.7-13.638,31.588-27.294C534.754,355.923,531.295,356.82,530.857,358.042L530.857,358.042z"/>
+<path fill="#9D9D9C" d="M481.008,377.61c-4.463,1.329-8.206,3.955-12.023,6.531c-0.61,0.412-0.785,1.223-0.098,1.646
+	c6.28,3.875,13.547,4.064,20.434,6.193c1.581,0.487,5.865-1.632,3.143-2.474c-6.541-2.021-13.609-2.131-19.566-5.807
+	c-0.032,0.548-0.065,1.097-0.098,1.646c3.178-2.145,6.262-4.361,9.977-5.468C486.002,378.918,483.297,376.93,481.008,377.61
+	L481.008,377.61z"/>
+<text transform="matrix(1 0 0 1 524.9893 384.7451)" fill="#B2B2B2" font-family="'Lato-Regular'" font-size="14">revised</text>
+<circle opacity="0.5" fill="#EB5B8C" stroke="#EB5B8C" stroke-miterlimit="10" enable-background="new    " cx="435.984" cy="528.768" r="9.87"/>
+<rect x="285.739" y="515.668" opacity="0.5" fill="#EB5B8C" enable-background="new    " width="129.246" height="26.199"/>
+<text transform="matrix(1 0 0 1 325.9277 534.4629)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16.7224">DEC 2014</text>
+<path fill="#9D9D9C" d="M530.857,502.92c-4.938,13.797-17.623,22.105-31.956,23.668c-2.007,0.219-22.029,1.055-20.979-1.264
+	c-0.245,0.541-3.508,1.365-4.065,2.596c-1.103,2.43,8.546,2.113,9.612,2.113c6.731,0,13.401-0.479,19.865-2.414
+	c13.593-4.066,26.7-13.637,31.588-27.295C534.754,500.801,531.295,501.698,530.857,502.92L530.857,502.92z"/>
+<path fill="#9D9D9C" d="M481.008,522.489c-4.463,1.328-8.206,3.955-12.023,6.53c-0.61,0.412-0.785,1.224-0.098,1.646
+	c6.28,3.875,13.547,4.064,20.434,6.193c1.581,0.487,5.865-1.631,3.143-2.474c-6.541-2.021-13.609-2.131-19.566-5.807
+	c-0.032,0.547-0.065,1.096-0.098,1.645c3.178-2.145,6.262-4.36,9.977-5.467C486.002,523.795,483.297,521.807,481.008,522.489
+	L481.008,522.489z"/>
+<text transform="matrix(1 0 0 1 524.9893 529.623)" fill="#B2B2B2" font-family="'Lato-Regular'" font-size="14">edited in place to point new work</text>
+<path fill="#C6C6C6" d="M629.703,461.149c-9.521-0.964-19.671-2.287-29.073,0.209c-7.651,2.028-17.845,7.748-18.586,16.561
+	c-0.704,8.361,9.838,13.729,16.228,16.043c6.518,2.359,13.385,2.771,20.23,2.254c12.864-0.971,28.268-3.615,38.33-12.344
+	c4.301-3.732,6.415-8.713,5.258-14.359c-1.421-6.93-9.698-11.873-16.387-12.362c-2.116-0.154-4.9,2.952-1.625,3.19
+	c6.164,0.453,12.201,5.58,13.417,11.512c1.013,4.939-2.007,9.095-5.746,11.906c-8.517,6.408-20.886,8.252-31.213,9.215
+	c-11.19,1.045-27.57-1.051-32.97-12.457c-4.271-9.024,9.271-15.534,16.043-16.743c8.006-1.431,16.456-0.24,24.469,0.567
+	C630.202,464.555,632.967,461.479,629.703,461.149L629.703,461.149z"/>
+<path fill="#C6C6C6" d="M670.19,458.245c17.28-3.438,34.878-5.82,52-10c3.086-0.754-1.467-1.275-2.601-0.998
+	c-17.124,4.18-34.716,6.562-52,10C664.486,457.864,669.064,458.467,670.19,458.245L670.19,458.245z"/>
+<text transform="matrix(1 0 0 1 732.8906 447.7451)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">Level 2  Revision 1</text>
+<text transform="matrix(1 0 0 1 16 756.9531)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">Source: http://www.w3.org/TR/#tr_CSS</text>
+<text transform="matrix(1 0 0 1 581.4561 644.4561)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">Selectors Level 3, first module becoming recommendation  </text>
+<text transform="matrix(1 0 0 1 460.3662 694.7441)" fill="#1D1D1B" font-family="'Lato-Regular'" font-size="14">There is not</text>
+<text transform="matrix(1 0 0 1 532.5771 694.7441)" fill="#1D1D1B" font-family="'Lato-Black'" font-size="14"> CSS4</text>
+<text transform="matrix(1 0 0 1 567.7725 694.7441)" fill="#1D1D1B" font-family="'Lato-Regular'" font-size="14">. Each module works independently and has its own level </text>
+<text transform="matrix(1 0 0 1 694.8906 572.6689)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">builds on CSS Level 2 module by module, </text>
+<text transform="matrix(1 0 0 1 694.8906 589.4678)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">using the CSS2.1 specification as its core</text>
+<path fill="#C6C6C6" d="M622.105,589.229c-11.522-5.604-27.318,1.722-25.562,16.06c1.476,12.035,13.575,21.461,25.455,21.203
+	c10.202-0.222,19.758-7.121,25.132-15.467c4.616-7.168,4.446-15.914-4.025-19.795c-3.041-1.394-2.708,1.987-0.431,3.032
+	c5.99,2.744,2.42,10.691-0.14,14.664c-3.979,6.183-10.499,11.015-17.532,13.088c-9.6,2.83-18.934-2.061-23.028-11.061
+	c-5.524-12.145,8.295-24.238,19.7-18.691C624.688,593.727,624.346,590.317,622.105,589.229L622.105,589.229z"/>
+<path fill="#C6C6C6" d="M653.245,593.09c5.896-3.233,12.651-5.137,19.03-7.158c3.689-1.168,7.406-2.26,11.146-3.264
+	c1.273-0.342,2.554-0.656,3.839-0.951c1.665-0.381,2.673,0.164,0.944-0.684c1.869,0.916,6.077-1.25,3.371-2.576
+	c-1.816-0.893-3.987-0.25-5.854,0.156c-3.959,0.858-7.856,2.043-11.732,3.209c-7.814,2.352-16.258,4.631-23.452,8.576
+	C647.659,591.977,651.181,594.223,653.245,593.09L653.245,593.09z"/>
+<path fill="#9D9D9C" d="M505.816,632.217c10.731,0.237,19.987,6.326,29.975,9.509c9.119,2.905,18.264,3.636,27.483,0.708
+	c1.259-0.399-3.023-1.92-4.076-1.586c-11.612,3.688-21.437,0.278-32.157-4.244c-7.53-3.178-15.188-5.897-23.443-6.08
+	C500.418,630.454,504.634,632.192,505.816,632.217L505.816,632.217z"/>
+<path fill="#9D9D9C" d="M553.798,633.999c2.146,0.063,4.16,1.652,5.902,2.756c2.69,1.705,5.372,3.351,8.401,4.387
+	c0.142-0.267,0.282-0.531,0.424-0.798c-3.015,2.124-6.034,4.302-9.465,5.71c-3.2,1.315-0.076,1.512,1.646,0.804
+	c4.148-1.705,7.814-4.114,11.47-6.69c0.091-0.063,0.927-0.626,0.423-0.798c-3.027-1.036-5.713-2.678-8.4-4.386
+	c-1.941-1.233-4.086-2.832-6.479-2.903c-1.144-0.034-2.31,0.299-3.333,0.8C554.143,632.998,552.678,633.965,553.798,633.999
+	L553.798,633.999z"/>
 </svg>
