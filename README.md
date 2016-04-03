@@ -1,7 +1,7 @@
 # SVG assets for slides on CSS
 
-I've created this SVG collection to use them in my slides on CSS. 
-You can use the freely. 
+I've created this SVG collection to use it in my slides on CSS. 
+You can use them freely. 
 
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_timeline.png?raw=true)
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_terms.png?raw=true)
