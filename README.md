@@ -12,6 +12,6 @@ You can use them freely.
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_box_sizing.png?raw=true)
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_text_shadow.png?raw=true)
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_box_shadow.png?raw=true)
-![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_box_shadow.png?raw=true)
+![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_border_radius.png?raw=true)
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_blending_backdrop.png?raw=true)
 ![alt tag](https://github.com/nabaroa/SVGassetsForSlidesOnCSS/blob/master/png/CSS_multi_column.png?raw=true)
