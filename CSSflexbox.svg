@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024px" height="756px">
+    <rect x="129.502" y="292.808" fill="#EDEDED" width="642.385" height="146.667" />
+    <text transform="matrix(1 0 0 1 4 130.0239)" font-family="'Lato-Black'" font-size="72">flexbox</text>
+    <text transform="matrix(1 0 0 1 0 61.4697)" font-family="'Lato-Light'" font-size="72">CSS</text>
+    <g>
+        <g>
+            <path fill="#9D9D9C" d="M348.635,612.565c-0.824,0-3.136-1.475-4.593-1.475C344.866,611.09,347.178,612.565,348.635,612.565
+			L348.635,612.565z" />
+        </g>
+    </g>
+    <rect x="138.836" y="301.178" onclick="asd" fill="#C6C6C6" width="174.668" height="131.333" />
+    <rect x="326.836" y="301.178" fill="#C6C6C6" width="436" height="131.333" />
+    <text transform="matrix(1 0 0 1 210.2734 380.8745)" fill="#FFFFFF" font-family="'Lato-Black'" font-size="34.6224">1</text>
+    <text transform="matrix(1 0 0 1 538.2734 380.8745)" fill="#FFFFFF" font-family="'Lato-Black'" font-size="34.6224">2</text>
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M132.521,247.546c-0.415,2.225-0.553,4.501-0.553,6.761c0,1.534-0.028,3.339,0.899,4.63
+			c1.346,1.874,5.555-0.698,4.004-2.857c0.262,0.365-0.016-0.846-0.029-0.977c-0.076-0.795-0.076-1.599-0.076-2.397
+			c0-1.753,0.13-3.511,0.451-5.235C137.745,244.64,132.943,245.282,132.521,247.546L132.521,247.546z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M129.093,253.361c32.133,0.485,64.127-3.033,96.156-5.046c32.705-2.056,65.563-2.517,98.32-3.185
+			c65.979-1.346,131.998-1.459,197.983-0.404c83.541,1.336,167.031,5.271,250.595,5.301c2.55,0.001,4.153-3.037,0.818-3.038
+			c-65.729-0.024-131.421-2.44-197.12-4.145c-65.974-1.712-131.974-2.205-197.967-1.558c-41.576,0.408-83.147,1.319-124.701,2.755
+			c-41.101,1.42-82.108,6.903-123.266,6.281C127.353,250.284,125.763,253.311,129.093,253.361L129.093,253.361z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M769.404,241.813c-0.001,4.265,0.514,9.191-0.679,13.333c-0.21,0.729,4.643,1.783,4.947,0.724
+			c1.192-4.143,0.678-9.068,0.679-13.333C774.352,241.423,769.404,241.069,769.404,241.813L769.404,241.813z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M93.469,296.33c3.965-0.676,8.043-0.798,12,0c0.035,0.007-0.953-2.148-1.041-2.293
+			c-0.291-0.477-0.929-1.851-1.559-1.978c-3.957-0.798-8.035-0.677-12,0C91.017,292.034,92.487,296.497,93.469,296.33L93.469,296.33
+			z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M95.1,297.104c-0.629,47.402,2.898,95.568-6.667,142.344c-0.03,0.146,4.527-0.035,4.804-1.389
+			c9.565-46.774,6.037-94.94,6.667-142.344C99.91,295.273,95.116,295.891,95.1,297.104L95.1,297.104z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M85.155,442.039c-1.554,0.54-1.827,0.725-0.821,0.553c0.62-0.045,1.25,0.002,1.869,0.03
+			c1.292,0.06,2.582,0.221,3.867,0.367c2.803,0.32,5.604,0.759,8.43,0.81c1.215,0.021,4.914-2.843,3.34-2.871
+			c-3.627-0.064-7.228-0.713-10.833-1.064c-2.704-0.264-5.555-0.365-7.823,1.379C80.472,443.327,83.529,443.289,85.155,442.039
+			L85.155,442.039z" />
+        </g>
+    </g>
+    <text transform="matrix(1 0 0 1 411.502 232.5083)" fill="#9D9D9C" font-family="'Lato-Black'" font-size="18">main size</text>
+    <text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 81.6885 406.354)" fill="#9D9D9C" font-family="'Lato-Black'" font-size="18">cross size</text>
+    <text transform="matrix(1 0 0 1 96.1689 511.1753)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="18">main start</text>
+    <text transform="matrix(1 0 0 1 733.1689 511.1753)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="18">main end</text>
+    <text transform="matrix(1 0 0 1 832.2441 444.5112)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="18">cross end</text>
+    <text transform="matrix(1 0 0 1 832.2441 298.6758)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="18">cross start</text>
+    <g>
+        <g>
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" x1="130.836" y1="301.178" x2="130.836" y2="304.178" />
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" stroke-dasharray="5.9784,5.9784" x1="130.836" y1="310.157" x2="130.836" y2="486.519" />
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" x1="130.836" y1="489.508" x2="130.836" y2="492.508" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" x1="771.836" y1="301.178" x2="771.836" y2="304.178" />
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" stroke-dasharray="5.9784,5.9784" x1="771.836" y1="310.157" x2="771.836" y2="486.519" />
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" x1="771.836" y1="489.508" x2="771.836" y2="492.508" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" x1="625.504" y1="293.178" x2="628.504" y2="293.178" />
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" stroke-dasharray="5.9784,5.9784" x1="634.482" y1="293.178" x2="810.845" y2="293.178" />
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" x1="813.834" y1="293.178" x2="816.834" y2="293.178" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" x1="625.504" y1="440.175" x2="628.504" y2="440.175" />
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" stroke-dasharray="5.9784,5.9784" x1="634.482" y1="440.175" x2="810.845" y2="440.175" />
+            <line fill="none" stroke="#C6C6C6" stroke-miterlimit="10" x1="813.834" y1="440.175" x2="816.834" y2="440.175" />
+        </g>
+    </g>
+    <text transform="matrix(1 0 0 1 151.502 326.5083)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="18">flex item</text>
+    <text transform="matrix(1 0 0 1 131.2212 285.4741)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="18">flex container</text>
+    <text transform="matrix(1 0 0 1 333.5024 321.8413)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="18">flex item</text>
+    <text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 460.2061 562.686)" fill="#EB5B8C" font-family="'Lato-Black'" font-size="18">cross axis</text>
+    <circle fill="#EB5B8C" cx="455.354" cy="293.326" r="7.852" />
+    <line fill="none" stroke="#EB5B8C" stroke-width="3" stroke-miterlimit="10" x1="455.354" y1="293.326" x2="455.354" y2="467.474" />
+    <polygon fill="#EB5B8C" points="465.344,459.286 455.888,475.664 446.431,459.286 " />
+    <text transform="matrix(1 0 0 1 832.2441 408.4067)" fill="#EB5B8C" font-family="'Lato-Black'" font-size="18">main axis</text>
+    <circle fill="#EB5B8C" cx="131.221" cy="403.484" r="7.852" />
+    <line fill="none" stroke="#EB5B8C" stroke-width="3" stroke-miterlimit="10" x1="131.221" y1="403.484" x2="814.983" y2="403.484" />
+    <polygon fill="#EB5B8C" points="808.646,393.495 825.022,402.951 808.646,412.407 " />
+</svg>

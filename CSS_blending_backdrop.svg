@@ -1,0 +1,72 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <pattern x="-1.878" y="-46.19" width="18.474" height="18.175" patternUnits="userSpaceOnUse" id="New_Pattern_Swatch_3" viewBox="0 -18.175 18.474 18.175" overflow="visible">
+            <g>
+                <polygon fill="none" points="0,0 18.474,0 18.474,-18.175 0,-18.175 			" />
+                <g>
+                    <polygon fill="none" points="0,-18.175 18.474,-18.175 18.474,0 0,0 				" />
+                    <polygon fill="#E0E0E0" points="9.438,-9.237 0,-9.237 0,0 9.438,0 				" />
+                    <polygon fill="#E0E0E0" points="18.474,-18.175 9.036,-18.175 9.036,-8.938 18.474,-8.938 				" />
+                </g>
+            </g>
+        </pattern>
+    </defs>
+    <pattern id="SVGID_1_" xlink:href="#New_Pattern_Swatch_3" patternTransform="matrix(1 0 0 -1 108.0034 -13460.3398)">
+    </pattern>
+    <rect y="158.522" fill="url(#SVGID_1_)" width="1022.122" height="551.288" />
+    <text transform="matrix(1 0 0 1 47.8979 130.0239)">
+        <tspan x="0" y="0" font-family="'Lato-Black'" font-size="72">blending: </tspan>
+        <tspan x="318.664" y="0" fill="#EB5B8C" font-family="'Lato-Black'" font-size="72">the backdrop</tspan>
+    </text>
+    <text transform="matrix(1 0 0 1 43.8979 61.4697)" font-family="'Lato-Light'" font-size="72">CSS</text>
+    <text transform="matrix(1 0 0 1 567.2104 240.2827)" fill="#575756" font-family="'Lato-Regular'" font-size="29.4204">backdrop</text>
+    <rect x="67.733" y="262.065" opacity="0.5" fill="#1D1D1B" width="293.985" height="217.489" />
+    <rect x="156.139" y="320.562" fill="#EB5B8C" width="293.985" height="217.489" />
+    <rect x="561.208" y="262.065" opacity="0.5" fill="#1D1D1B" width="293.985" height="217.489" />
+    <rect x="649.615" y="319.562" opacity="0.5" fill="#1D1D1B" width="205.579" height="158.992" />
+    <text transform="matrix(1 0 0 1 711.2026 541.7671)" font-family="'Lato-Regular'" font-size="32.8725">rgba(0,0,0,.5)</text>
+    <text transform="matrix(1 0 0 1 67.7329 246.2817)" font-family="'Lato-Regular'" font-size="32.8725">rgba(0,0,0,.5)</text>
+    <g>
+        <g>
+            <pattern id="SVGID_2_" xlink:href="#New_Pattern_Swatch_3" patternTransform="matrix(1 0 0 -1 108.0034 -13460.3398)">
+            </pattern>
+            <path fill="url(#SVGID_2_)" d="M796.076,48.36c0.485-0.485,1.022-0.963,1.367-1.564c0.273-0.477,0.22-1.114,0.22-1.64
+			c0-0.373-1.932-0.077-1.932,0.518c0,0.46,0.027,0.928-0.157,1.36c-0.238,0.561-0.838,1.018-1.256,1.436
+			c-0.318,0.318,0.276,0.377,0.469,0.366C795.214,48.808,795.762,48.674,796.076,48.36L796.076,48.36z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#9D9D9C" d="M425.985,550.176c9.385,30.38,42.831,47.02,72.504,50.027c14.122,1.432,30.466-0.084,42.675-7.946
+			c7.687-4.949,14.205-11.982,20.342-18.674c5.365-5.85,10.564-11.988,15.02-18.569c0.993-1.467-2.412-5.06-3.635-3.254
+			c-8.688,12.835-19.923,25.23-32.193,34.706c-11.131,8.595-26.703,10.469-40.325,9.779c-28.314-1.432-61.962-16.626-70.927-45.647
+			C428.845,548.655,425.017,547.042,425.985,550.176L425.985,550.176z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#9D9D9C" d="M560.59,552.28c5.782-2.634,12.493-2.757,17.999-6c-1.622-0.225-3.244-0.448-4.866-0.672
+			c1.573,8.023,2.505,16.522,6,23.999c0.566,1.211,4.903,0.418,4.969,0.559c-3.495-7.477-4.427-15.976-6-23.999
+			c-0.179-0.911-4.207-1.06-4.866-0.672c-5.48,3.229-12.22,3.368-17.999,6C556.018,551.408,559.331,552.853,560.59,552.28
+			L560.59,552.28z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path d="M918.364,534.191c38.285-26.812,7.768-91.199-34.542-91.808c-2.937-0.042-3.504,3.975-0.258,4.021
+			c38.751,0.558,65.956,61.021,31.454,85.185C912.347,533.459,916.205,535.704,918.364,534.191L918.364,534.191z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path d="M878.851,433.456c-4.155,2.339-7.517,5.902-10.86,9.243c-0.182,0.132-0.273,0.307-0.275,0.525
+			c1.729,4.92,4.051,9.88,7.621,13.74c0.99,1.07,5.577-0.206,4.713-1.141c-3.201-3.46-5.29-7.74-6.972-12.105
+			c-0.985-2.558,7.596-8.337,9.457-9.384C884.779,433.071,879.915,432.858,878.851,433.456L878.851,433.456z" />
+        </g>
+    </g>
+    <rect x="47.898" y="630.501" fill="none" width="928.79" height="50.98" />
+    <text transform="matrix(1 0 0 1 47.8979 648.189)">
+        <tspan x="0" y="0" fill="#575756" font-family="'Lato-Regular'" font-size="24">The shape in the backdrop has an alpha value. The alpha value of the backdrop shape is </tspan>
+        <tspan x="0" y="21" fill="#575756" font-family="'Lato-Regular'" font-size="24">preserved when the backdrop is calculated.</tspan>
+    </text>
+</svg>

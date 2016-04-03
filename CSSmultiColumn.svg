@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024px" height="756px">
+    <rect x="48.553" y="164.141" fill="#EDEDED" width="824.667" height="325.333" />
+    <rect x="57.886" y="173.141" fill="#FFFFFF" width="806.334" height="309.667" />
+    <rect x="300.193" y="173.141" fill="#C6C6C6" width="41.331" height="309.667" />
+    <rect x="583.224" y="173.141" fill="#C6C6C6" width="41.33" height="309.667" />
+    <text transform="matrix(1 0 0 1 4 130.0239)">
+        <tspan x="0" y="0" font-family="'Lato-Black'" font-size="72">multi column</tspan>
+        <tspan x="430.263" y="0" font-family="'Lato-Regular'" font-size="72"> layout</tspan>
+    </text>
+    <text transform="matrix(1 0 0 1 0 61.4697)" font-family="'Lato-Light'" font-size="72">CSS</text>
+    <g>
+        <g>
+            <path fill="#9D9D9C" d="M348.635,612.565c-0.824,0-3.136-1.475-4.593-1.475C344.866,611.09,347.178,612.565,348.635,612.565
+			L348.635,612.565z" />
+        </g>
+    </g>
+    <rect x="57.887" y="175.474" fill="none" width="236" height="320.667" />
+    <text transform="matrix(1 0 0 1 57.8867 185.792)">
+        <tspan x="0" y="0" fill="#878787" font-family="'Lato-Regular'" font-size="14">ARRAINEK eta zuhaitzek elkarren </tspan>
+        <tspan x="0" y="21" fill="#878787" font-family="'Lato-Regular'" font-size="14">antza dute. Antza dute uztaiengatik. </tspan>
+        <tspan x="0" y="42" fill="#878787" font-family="'Lato-Regular'" font-size="14">Zuhaitzek enborrean dituzte. Enborra</tspan>
+        <tspan x="230.002" y="42" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="63" fill="#878787" font-family="'Lato-Regular'" font-size="14">ri zehar ebakia egin eta hantxe ageriko </tspan>
+        <tspan x="0" y="84" fill="#878787" font-family="'Lato-Regular'" font-size="14">dira uztaiak. Uztai bakoitzeko urtebe</tspan>
+        <tspan x="224.023" y="84" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="105" fill="#878787" font-family="'Lato-Regular'" font-size="14">te, horrelaxe jakiten da zuhaitzaren </tspan>
+        <tspan x="0" y="126" fill="#878787" font-family="'Lato-Regular'" font-size="14">adina zein den. Arrainek ere uztaiak </tspan>
+        <tspan x="0" y="147" fill="#878787" font-family="'Lato-Regular'" font-size="14">dituzte, baina ezkatetan. Eta zuhaitze</tspan>
+        <tspan x="226.668" y="147" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="168" fill="#878787" font-family="'Lato-Regular'" font-size="14">kin bezalaxe, uztai horiengatik dakigu </tspan>
+        <tspan x="0" y="189" fill="#878787" font-family="'Lato-Regular'" font-size="14">zein den animaliaren adina. Arrainak </tspan>
+        <tspan x="0" y="210" fill="#878787" font-family="'Lato-Regular'" font-size="14">beti ari dira handitzen. Gu ez, gu txiki</tspan>
+        <tspan x="223.757" y="210" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="231" fill="#878787" font-family="'Lato-Regular'" font-size="14">tuz goaz behin heldutasunera iritsita. </tspan>
+        <tspan x="0" y="252" fill="#878787" font-family="'Lato-Regular'" font-size="14">Gure hazkundea gelditu egiten da eta </tspan>
+        <tspan x="0" y="273" fill="#878787" font-family="'Lato-Regular'" font-size="14">hezurrak elkartzen hasten dira. Uzkur</tspan>
+        <tspan x="229.569" y="273" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="294" fill="#878787" font-family="'Lato-Regular'" font-size="14">tu egiten da pertsona. Arrainak, ordea, </tspan>
+    </text>
+    <rect x="342.554" y="175.474" fill="none" width="236" height="320.667" />
+    <text transform="matrix(1 0 0 1 342.5542 185.7925)">
+        <tspan x="0" y="0" fill="#878787" font-family="'Lato-Regular'" font-size="14">hil arte hazten dira. Gazte direnean </tspan>
+        <tspan x="0" y="21" fill="#878787" font-family="'Lato-Regular'" font-size="14">azkarrago, urteetan aurrera egin ahala </tspan>
+        <tspan x="0" y="42" fill="#878787" font-family="'Lato-Regular'" font-size="14">mantsoago, baina haziz doaz beti arrai</tspan>
+        <tspan x="230.968" y="42" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="63" fill="#878787" font-family="'Lato-Regular'" font-size="14">nak. Eta horrexegatik dituzte uztaiak </tspan>
+        <tspan x="0" y="84" fill="#878787" font-family="'Lato-Regular'" font-size="14">ezkatetan. 12 Arrainen uztaia neguak </tspan>
+        <tspan x="0" y="105" fill="#878787" font-family="'Lato-Regular'" font-size="14">sortzen du. Arrainak gutxien jaten </tspan>
+        <tspan x="0" y="126" fill="#878787" font-family="'Lato-Regular'" font-size="14">duen aldia da negua, eta gose garai </tspan>
+        <tspan x="0" y="147" fill="#878787" font-family="'Lato-Regular'" font-size="14">horrek arrasto ilun bat marrazten du </tspan>
+        <tspan x="0" y="168" fill="#878787" font-family="'Lato-Regular'" font-size="14">ezkatan. Gutxiago hazten delako negu </tspan>
+        <tspan x="0" y="189" fill="#878787" font-family="'Lato-Regular'" font-size="14">sasoian. Udan ez baina. Goserik ez </tspan>
+        <tspan x="0" y="210" fill="#878787" font-family="'Lato-Regular'" font-size="14">dagoenean ez da arrastorik geratzen </tspan>
+        <tspan x="0" y="231" fill="#878787" font-family="'Lato-Regular'" font-size="14">ezkatan. Uztai mikroskopikoa da arrai</tspan>
+        <tspan x="229.259" y="231" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="252" fill="#878787" font-family="'Lato-Regular'" font-size="14">nena, ez da itxura batean ikusten, </tspan>
+        <tspan x="0" y="273" fill="#878787" font-family="'Lato-Regular'" font-size="14">baina hortxe dago. Zauri bat izango </tspan>
+        <tspan x="0" y="294" fill="#878787" font-family="'Lato-Regular'" font-size="14">balitz bezala. Ondo itxi gabeko zauri </tspan>
+    </text>
+    <rect x="626.221" y="175.474" fill="none" width="236" height="320.667" />
+    <text transform="matrix(1 0 0 1 626.2207 185.7925)">
+        <tspan x="0" y="0" fill="#878787" font-family="'Lato-Regular'" font-size="14">bat. Eta uztaiak arrainetan legez, ger</tspan>
+        <tspan x="220.929" y="0" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="21" fill="#878787" font-family="'Lato-Regular'" font-size="14">taera latzak geratu egiten dira gure </tspan>
+        <tspan x="0" y="42" fill="#878787" font-family="'Lato-Regular'" font-size="14">memorian, gure bizitza markatu egiten </tspan>
+        <tspan x="0" y="63" fill="#878787" font-family="'Lato-Regular'" font-size="14">dute, gure denboraren neurri bihurtu </tspan>
+        <tspan x="0" y="84" fill="#878787" font-family="'Lato-Regular'" font-size="14">arte. Egun zoriontsuak, aldiz, azkar </tspan>
+        <tspan x="0" y="105" fill="#878787" font-family="'Lato-Regular'" font-size="14">doaz, azkarregi, eta berehalaxe ahaz</tspan>
+        <tspan x="219.473" y="105" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="126" fill="#878787" font-family="'Lato-Regular'" font-size="14">ten zaizkigu. Arrainetan negua dena, </tspan>
+        <tspan x="0" y="147" fill="#878787" font-family="'Lato-Regular'" font-size="14">gizakietan galera da. Galerak zehazten </tspan>
+        <tspan x="0" y="168" fill="#878787" font-family="'Lato-Regular'" font-size="14">du gure garaia, harreman baten bukae</tspan>
+        <tspan x="230.199" y="168" fill="#878787" font-family="'Lato-Regular'" font-size="14">-</tspan>
+        <tspan x="0" y="189" fill="#878787" font-family="'Lato-Regular'" font-size="14">rak, maite dugun pertsona baten </tspan>
+        <tspan x="0" y="210" fill="#878787" font-family="'Lato-Regular'" font-size="14">heriotzak. Galera bakoitza, uztai ilun </tspan>
+        <tspan x="0" y="231" fill="#878787" font-family="'Lato-Regular'" font-size="14">bat sakonean.</tspan>
+    </text>
+    <rect x="57.965" y="518.477" fill="none" width="334.33" height="146.666" />
+    <text transform="matrix(1 0 0 1 57.9653 528.7954)">
+        <tspan x="0" y="0" font-family="'Lato-Regular'" font-size="14">div {</tspan>
+        <tspan x="0" y="21" font-family="'Lato-Regular'" font-size="14" letter-spacing="33"> </tspan>
+        <tspan x="36" y="21" font-family="'Lato-Regular'" font-size="14">column-count: 3;</tspan>
+        <tspan x="0" y="42" font-family="'Lato-Regular'" font-size="14"> </tspan>
+        <tspan x="5.404" y="42" font-family="'Lato-Regular'" font-size="14" letter-spacing="27"> </tspan>
+        <tspan x="36" y="42" font-family="'Lato-Regular'" font-size="14">column-width: 15em;</tspan>
+        <tspan x="0" y="63" font-family="'Lato-Regular'" font-size="14"> </tspan>
+        <tspan x="5.404" y="63" font-family="'Lato-Regular'" font-size="14" letter-spacing="27"> </tspan>
+        <tspan x="36" y="63" font-family="'Lato-Regular'" font-size="14">column-gap: 2em; </tspan>
+        <tspan x="0" y="84" font-family="'Lato-Regular'" font-size="14"> </tspan>
+        <tspan x="5.404" y="84" font-family="'Lato-Regular'" font-size="14" letter-spacing="27"> </tspan>
+        <tspan x="36" y="84" font-family="'Lato-Regular'" font-size="14">column-rule: 4px solid #eb5b8c;</tspan>
+        <tspan x="0" y="105" font-family="'Lato-Regular'" font-size="14"> </tspan>
+        <tspan x="5.404" y="105" font-family="'Lato-Regular'" font-size="14" letter-spacing="27"> </tspan>
+        <tspan x="36" y="105" font-family="'Lato-Regular'" font-size="14">padding: 5px; </tspan>
+        <tspan x="0" y="126" font-family="'Lato-Regular'" font-size="14">}</tspan>
+    </text>
+    <rect x="599.923" y="173.141" fill="#EB5B8C" width="7.932" height="309.667" />
+    <rect x="317.072" y="173.141" fill="#EB5B8C" width="7.931" height="309.667" />
+    <rect x="78.457" y="582.978" fill="#C6C6C6" width="12.18" height="12" />
+    <rect x="78.457" y="624.978" fill="#EDEDED" width="12.18" height="12" />
+    <rect x="78.308" y="604.978" fill="#EB5B8C" width="12.567" height="11.999" />
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M604.783,502.829c0.542,3.68-0.551,8.654,1.334,12c0.873,1.548,5.745,1.507,4.873-0.043
+			c-0.93-1.649-0.838-3.735-0.899-5.571c-0.072-2.152-0.121-4.295-0.435-6.429C609.411,501.123,604.478,500.752,604.783,502.829
+			L604.783,502.829z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M610.186,510.972c22.959-1.209,45.916-0.074,68.872,0.61c22.312,0.666,44.685-0.388,66.978-1.254
+			c22.688-0.881,45.601-0.316,68.225-2.062c10.921-0.842,21.784-2.223,32.74-2.577c2.669-0.086,5.312,0.004,7.978,0.121
+			c1.092,0.048,2.183,0.103,3.274,0.16c0.413,0.022,3.109,0.297,2.126,0.091c-0.77-0.392-1.538-0.783-2.308-1.176
+			c0.429-0.682,0.237-0.249-1.148-0.243c-2.271,0.01,2.346,1.666,3.264,1.662c0.585-0.003,2.374,0.25,2.778-0.394
+			c0.324-0.515-2.124-1.137-2.308-1.175c-12.757-2.671-27.359-0.22-40.031,0.999c-23.906,2.298-48.01,1.791-72.003,2.705
+			c-23.9,0.91-47.872,2.161-71.795,1.479c-23.304-0.663-46.599-1.838-69.905-0.61C604.621,509.431,609.256,511.021,610.186,510.972
+			L610.186,510.972z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#C6C6C6" d="M859.512,499.587c-0.733,6.909-1.934,13.758-2.667,20.667c-0.049,0.458,4.597-0.117,4.75-1.561
+			c0.733-6.909,1.934-13.758,2.667-20.667C864.311,497.569,859.665,498.144,859.512,499.587L859.512,499.587z" />
+        </g>
+    </g>
+    <text transform="matrix(1 0 0 1 706.5537 526.8071)" fill="#9D9D9C" font-family="'Lato-Regular'" font-size="14">column-width</text>
+    <g>
+        <g>
+            <path fill="#878787" d="M147.807,346.304c11.156-10.599,21.044-22.36,29.333-35.333c-0.854-1.397-1.708-2.794-2.562-4.191
+			c0.388,11.626-1.53,23.27-1.916,34.884c-0.304,9.13,0.033,18.734,5.195,26.596c1.916,2.917,0.992-0.149,0.059-1.57
+			c-2.57-3.914-2.505-9.947-2.659-14.446c-0.167-4.888,0.117-9.792,0.433-14.667c0.577-8.888,1.803-17.82,1.505-26.74
+			c-0.023-0.686-2.396-4.451-2.562-4.191c-8.289,12.973-18.177,24.735-29.333,35.333
+			C144.598,342.645,147.595,346.505,147.807,346.304L147.807,346.304z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#878787" d="M442.962,324.139c-0.73-8.626,12.637-20.374,20.062-13.159c5.789,5.624,3.106,14.008-0.086,20.204
+			c-7.293,14.157-20.489,25.882-32.677,35.82c-1.34,1.093-0.854,2.68,0.818,2.948c23.894,3.847,48.036-1.193,72,1.333
+			c0.33-1.212,0.66-2.424,0.99-3.636c-0.667,0-1.333,0-2,0c-1.112,0-3.632,1.573-2.381,2.923c1.317,1.421,2.727,1.439,4.356,2.34
+			c1.911,1.057,6.088-1.547,3.682-2.877c-1.112-0.615-2.786-0.735-3.644-1.66c-0.794,0.975-1.587,1.948-2.381,2.923
+			c0.667,0,1.333,0,2,0c2.235,0,3.92-3.327,0.99-3.636c-23.965-2.527-48.123,2.511-72-1.333c0.273,0.982,0.545,1.966,0.818,2.948
+			c7.208-5.876,14.041-12.236,20.371-19.051c7.213-7.765,14.646-16.89,17.067-27.447c1.966-8.568-3.413-17.912-12.723-17.954
+			c-9.677-0.044-20.906,10.923-20.083,20.649C438.337,327.753,443.165,326.533,442.962,324.139L442.962,324.139z" />
+        </g>
+    </g>
+    <g>
+        <g>
+            <path fill="#878787" d="M708.778,311.856c3.371-7.759,10.21-14.072,17.879-17.479c5.029-2.235,14.92-3.285,19.361,1.005
+			c6.792,6.561-8.706,17.762-13.165,20.071c-0.638,0.331-3.072,2.278-0.936,2.004c9.282-1.192,20.753,0.238,24.577,10.13
+			c3.443,8.91-2.013,19.536-8.283,25.684c-11.657,11.433-39.508,21.935-48.786,2.359c-0.613,0.621-1.227,1.242-1.84,1.862
+			c1.333-0.666,2.667-1.333,4-2c2.616-1.309,1.861-2.671-0.732-1.373c-1.333,0.667-2.666,1.334-4,2
+			c-0.405,0.202-2.17,1.166-1.84,1.862c10.234,21.593,41.018,7.812,54.166-3.012c8.162-6.719,14.181-16.917,12.252-27.839
+			c-2.154-12.203-17.115-13.567-26.91-12.309c-0.312,0.668-0.624,1.336-0.936,2.004c5.762-2.985,27.37-18.961,14.396-25.512
+			c-7.237-3.654-17.319-0.715-24.049,2.617c-8.286,4.102-15.902,11.304-19.604,19.827
+			C704.104,314.277,708.209,313.168,708.778,311.856L708.778,311.856z" />
+        </g>
+    </g>
+</svg>
